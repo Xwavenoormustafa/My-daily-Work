@@ -1,0 +1,244 @@
+:root {
+  --text-color: #ff5588;
+}
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+  background-color: #ffffff;
+}
+
+.container {
+  margin: 0px 70px;
+}
+.portfoio {
+  display: flex;
+  margin-top: 30px;
+}
+
+.element {
+  margin-right: 70px;
+  text-align: center;
+}
+
+.element img {
+  width: 200px;
+  border-radius: 30px;
+  border: none;
+}
+
+.profile-icons {
+  justify-content: space-around;
+  display: flex;
+  margin: 25px 0px;
+}
+
+.hire-btn {
+  width: 80%;
+  padding: 10px 50px;
+  border: 1px solid #999999;
+  background: none;
+  border-radius: 10px;
+}
+
+.icon-1:hover {
+  color: var(--text-color);
+  cursor: pointer;
+  scale: 1.6;
+}
+
+.icon-2:hover {
+  color: var(--text-color);
+  cursor: pointer;
+  scale: 1.6;
+}
+
+.icon-3:hover {
+  color: var(--text-color);
+  cursor: pointer;
+  scale: 1.6;
+}
+
+.icon-4:hover {
+  color: var(--text-color);
+  cursor: pointer;
+  scale: 1.6;
+}
+
+.hire-btn:hover {
+  background-color: var(--text-color);
+  color: white;
+  cursor: pointer;
+  border: none;
+  scale: 1.1;
+}
+
+.hello-brother span {
+  color: var(--text-color);
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.hello-brother {
+  font: 44px;
+  font-weight: 400;
+}
+
+.hello-brother p {
+  font: 20px;
+  font-weight: normal;
+}
+
+.heavy {
+  display: flex;
+  justify-content: space-between;
+}
+.heavy h1 {
+  justify-content: center;
+  color: var(--text-color);
+}
+
+.heavy .neg h1 {
+  text-align: center;
+  font-size: 64px;
+  font-weight: 400;
+}
+
+.career {
+  justify-content: center;
+  margin-top: 140px;
+}
+
+.bigger {
+  justify-content: center;
+  margin-top: 140px;
+}
+
+.bigger h5 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.bigger h1 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.bigger .forget {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.newturn {
+  border-radius: 20px;
+  padding: 10px;
+  border: 1px solid#FF5588;
+  background: none;
+  width: 210px;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.newturn-1 {
+  border-radius: 20px;
+  padding: 10px;
+  border: 1px solid#000000;
+  background: none;
+  width: 210px;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.beauty {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.sevent {
+  margin-top: 140px;
+}
+
+.barger {
+  margin-top: 140px;
+}
+
+.juctice {
+  justify-content: space-between;
+  margin-top: 50px;
+  display: flex;
+}
+
+.paragraph {
+  margin-top: 110px;
+}
+
+.paragraph span {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.paragraph h1 {
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.beutiful{
+  margin-top: 110px;
+}
+
+.niece{
+  display: flex;
+ height: 100px;
+}
+
+.break{
+  margin: 10px 20px;
+  width: 0px 10px;
+}
+
+.ben10{
+  border: 1px solid black;
+  border-radius: 30px;
+  padding: 20px 40px;
+  margin-top: 60px;
+}
+
+.lines{
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.bear{
+  margin-top: 110px;
+}
+
+.form-b{
+  margin-top: 70px;
+}
+
+.meru input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #f6f0f2;
+  width: 400px;
+}
+
+.atv-net{
+  border: 1px solid #999999;
+  width: 200px;
+  height: 80px;
+  padding: 5px;
+  background: none;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.atv-net:hover {
+  background-color: var(--text-color);
+  color: white;
+  cursor: pointer;
+  border: none;
+  scale: 1.1;
+}
